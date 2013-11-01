@@ -1,0 +1,1 @@
+The Conjugator.jar file must be in the same directory as the text_files folder for the porgram to work correctly.

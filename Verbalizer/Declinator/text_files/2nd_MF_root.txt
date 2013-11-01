@@ -1,0 +1,16 @@
+anim
+camp
+equ
+loc
+nat
+ocul
+priam
+puer
+rem
+soci
+somn
+teucr
+tyri
+umer
+vent
+vir

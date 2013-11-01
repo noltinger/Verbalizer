@@ -1,0 +1,6 @@
+man
+port
+cas
+curs
+dom
+fluct
